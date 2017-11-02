@@ -30,7 +30,7 @@
   "author": "danke77",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.6.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
